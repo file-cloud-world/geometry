@@ -1,1 +1,1 @@
-The geometry file is named as 'Geometry.txt'.
+The geometry file is named as 'Micromodel_experiment.txt'.
